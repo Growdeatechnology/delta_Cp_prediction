@@ -2,7 +2,7 @@
 
 fig 1.Frequancy Distribution Initital Dataset
 
-![image](https://github.com/Growdeatechnology/Cp_prediction/assets/72397529/78813774-94a3-4a0d-a5c6-2df390848740)
+![image](https://github.com/Growdeatechnology/Cp_prediction/assets/72397529/b886f664-ec13-4120-8594-e0313119d099)
 
 fig 2.plotting against Sequence length
 
