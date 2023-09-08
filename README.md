@@ -6,10 +6,10 @@ fig 1.Frequancy Distribution Initital Dataset
 
 fig 2.plotting against Sequence length
 
-![image](https://github.com/Growdeatechnology/Cp_prediction/assets/72397529/50b2d028-6f26-4800-8ecd-de4fc279d46c)
+![image](https://github.com/Growdeatechnology/Cp_prediction/assets/72397529/099191e0-a176-44a7-8e3b-b2e47fd3c602)
 
 fig 3. prediction plot
 
-![image](https://github.com/Growdeatechnology/Cp_prediction/assets/72397529/099c51f7-fb3d-4097-9303-e9221b0ef829)
+![image](https://github.com/Growdeatechnology/Cp_prediction/assets/72397529/0488b160-876c-453a-b5c9-a5c4bb13b31f)
 
 fig 4. Prediction plot after removing outliers
