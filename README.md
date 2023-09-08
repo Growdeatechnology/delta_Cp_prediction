@@ -1,4 +1,4 @@
-![image](https://github.com/Growdeatechnology/Cp_prediction/assets/72397529/f4df16cf-eaab-4760-8f6c-e63bb9694032)
+![image](https://github.com/Growdeatechnology/Cp_prediction/assets/72397529/0fb57191-03ec-43e6-88e7-614e5f10b3e6)
 
 fig 1.Frequancy Distribution Initital Dataset
 
