@@ -10,6 +10,6 @@ fig 2.plotting against Sequence length
 
 fig 3. prediction plot
 
-![image](https://github.com/Growdeatechnology/Cp_prediction/assets/72397529/0488b160-876c-453a-b5c9-a5c4bb13b31f)
+![image](https://github.com/Growdeatechnology/Cp_prediction/assets/72397529/08d6f44c-3ff8-40f4-a336-bd091d8206fb)
 
 fig 4. Prediction plot after removing outliers
