@@ -25,8 +25,10 @@ The regression model for &Delta;Cp prediction is based on Convolutional Neural N
 
 fig. 3 Prediction plot
 
-R<sup>2</sup> was evaluated for the predicted values and it came out to be 
+R<sup>2</sup> was evaluated for the predicted values and it came out to be 0.51. This reduction in the accuracy of the model was assumed to be due to the presence of outliers. Major outliers according to previous plots were removed from the data and this data was then used for model training. The predicted data was plotted against observed data which is represented in fig. 4 and is evident to outperform previous result. 
 
 ![image](https://github.com/Growdeatechnology/Cp_prediction/assets/72397529/08d6f44c-3ff8-40f4-a336-bd091d8206fb)
 
 fig. 4 Prediction plot after removing outliers
+
+The prepared model is capable to predict accurate value of &Delta;Cp, with R<sup>2</sup> = 0.92. 
