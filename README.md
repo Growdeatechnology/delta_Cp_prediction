@@ -31,4 +31,4 @@ R<sup>2</sup> was evaluated for the predicted values and it came out to be 0.51.
 
 fig. 4 Prediction plot after removing outliers
 
-The prepared model is capable to predict accurate value of &Delta;Cp, with R<sup>2</sup> = 0.92. 
+The prepared model is capable to predict accurate value of &Delta;Cp, with R<sup>2</sup> = 0.76, which makes the developed model reliable for &Delta;Cp prediction.
