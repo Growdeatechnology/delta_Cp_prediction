@@ -1,3 +1,7 @@
+# &Delta;Cp Prediction
+
+Heat capacity (Cp) is a thermodynamic property which measures the amount of heat energy required to raise the temperature of a substance by a certain amount. In the context of proteins, heat capacity plays a significant role in understanding their stability and behavior. Heat capacity is related to the protein's ability to resist denaturation, which is the disruption of its native structure. Heat capacity determines, with increase in temperature the amount of heat a protein can absorb before its denaturation.
+
 ![image](https://github.com/Growdeatechnology/Cp_prediction/assets/72397529/0c1f8054-45a6-4950-b103-f4dc2269bde6)
 
 fig 1.Frequancy Distribution Initital Dataset
